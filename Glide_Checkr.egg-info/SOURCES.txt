@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.py
+Glide_Checkr.egg-info/PKG-INFO
+Glide_Checkr.egg-info/SOURCES.txt
+Glide_Checkr.egg-info/dependency_links.txt
+Glide_Checkr.egg-info/entry_points.txt
+Glide_Checkr.egg-info/requires.txt
+Glide_Checkr.egg-info/top_level.txt
+Glide_Checkr/__init__.py
+Glide_Checkr/themes/handouts-checkr/theme.conf
+Glide_Checkr/themes/handouts-checkr/static/checkr.png
+Glide_Checkr/themes/revealjs-checkr/theme.conf
+Glide_Checkr/themes/revealjs-checkr/static/checkr.png

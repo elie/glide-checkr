@@ -1,4 +1,0 @@
-[sphinx.html_themes]
-handouts-walmart = glide_walmart
-revealjs-walmart = glide_walmart
-

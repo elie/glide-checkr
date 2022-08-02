@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+handouts-checkr = glide_checkr
+revealjs-checkr = glide_checkr
+

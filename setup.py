@@ -4,19 +4,19 @@
 from setuptools import setup
 
 setup(
-    name='Glide walmart',
+    name='Glide checkr',
     version='1.5.0',
-    description='walmart themes for Glide.',
+    description='checkr themes for Glide.',
     author='Joel Burton',
     author_email='joel@joelburton.com',
-    url='https://github.com/joelburton/glide-walmart',
-    packages=['glide_walmart'],
+    url='https://github.com/joelburton/glide-checkr',
+    packages=['glide_checkr'],
     install_requires=["glide"],
     include_package_data=True,
     entry_points={
         'sphinx.html_themes': [
-            'revealjs-walmart = glide_walmart',
-            'handouts-walmart = glide_walmart',
+            'revealjs-checkr = glide_checkr',
+            'handouts-checkr = glide_checkr',
         ],
     },
 )
